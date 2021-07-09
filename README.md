@@ -11,7 +11,8 @@
 ## The classics
 
 <details>
-  <summary> Generative Modeling by Estimating Gradients of the Data Distribution [[Arxiv]](https://arxiv.org/abs/1907.05600)</summary>
+  <summary><a href=https://arxiv.org/abs/1907.05600>Generative Modeling by Estimating Gradients of the Data Distribution</a></summary>
+  
   * See also the blogpost (http://yang-song.github.io/blog/2021/score/)
   * Sample from multiple noisy versions of the data distribution
   * First results on popular image datasets
